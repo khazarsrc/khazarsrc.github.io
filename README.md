@@ -27,7 +27,7 @@ We love a good challenge, our teams aim to participate in both local and global 
 
 - **2 Backend Developers** (Spring + Java)
 
-- **1 AI Developer** (Python + PyTorch)
+- **1 AI Developer** (PyTorch + Python)
 
 - **1 Embedded Systems Developer** (Rust)
 
